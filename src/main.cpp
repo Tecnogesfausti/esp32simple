@@ -29,7 +29,7 @@ void loop() {
     }
 }
 
-// put function definitions here:
+// aqui ponemos cosas nuevas:
 int myFunction(int equis, int y) {
   return equis + y;
 }
